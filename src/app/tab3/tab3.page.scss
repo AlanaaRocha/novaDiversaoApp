@@ -1,2 +1,8 @@
+ion-item{
+    --padding-start: 5px;
 
-   
+    &:hover{
+        --background: #d3d3d3;
+    }
+
+}
